@@ -1,0 +1,4 @@
+repository "REPO_Actividad2_UNIR@Plastic_Solar_System_UNIR@cloud"
+  path "/"
+    br "/main"
+    co "/main"
