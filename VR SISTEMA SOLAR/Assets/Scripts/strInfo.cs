@@ -1,0 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class strInfo
+{
+
+    public string strMercurio = "Es el planeta más cercano al Sol. No tiene atmósfera y tampoco tiene ningún satélite. Los romanos le pusieron el nombre del mensajero de los dioses porque se movía más rápido que los demás planetas. \n \n Da la vuelta al Sol en menos de tres meses.";
+    public string strVenus = "Su tamaño es casi igual al de la Tierra. Su atmósfera es muy espesa y la temperatura es muy alta.No tiene satélites. Venus tiene muchos volcanes. \n \n También hay cráteres de los impactos de los meteoritos. Sólo de los grandes, porque los pequeños se deshacen en la espesa atmósfera.";
+    public string strTierra = "Es el llamado planeta azul. Posee agua y una atmósfera con oxígeno. Es nuestro planeta y el único habitado. La Tierra es el mayor de los planetas rocosos y eso hace que pueda retener una capa de gases, la atmósfera, que dispersa la luz y absorbe calor.  \n \n De día evita que la Tierra se caliente demasiado y, de noche, que se enfríe. Siete de cada diez partes de su superficie están cubiertas de agua. Los mares y océanos también ayudan a regular la temperatura. El agua que se evapora forma nubes y cae en forma de lluvia o nieve, formando ríos y lagos. ";
+    public string strMarte = "Marte es un mundo desértico frío y tiene la mitad del tamaño de la Tierra. A veces llamado el Planeta Rojo. Es rojo debido al hierro oxidado en el suelo.  \n \n Al igual que la Tierra, Marte tiene estaciones, casquetes polares, volcanes, cañones y clima.Tiene una atmósfera muy delgada hecha de dióxido de carbono, nitrógeno y argón.  \n \n Hay signos de antiguas inundaciones en Marte, pero ahora el agua existe principalmente en tierra helada y nubes delgadas. En algunas laderas marcianas, hay evidencia de agua salada líquida en el suelo.";
+    public string strJupiter = "Júpiter es el planeta más grande de nuestro sistema solar. Es similar a una estrella, pero nunca se volvió lo suficientemente masiva como para comenzar a arder. Está cubierto de rayas de nubes arremolinadas. Tiene grandes tormentas como la Gran Mancha Roja, que ha estado ocurriendo durante cientos de años.  \n \n Júpiter es un gigante gaseoso y no tiene una superficie sólida, pero puede tener un núcleo interno sólido del tamaño de la Tierra.También tiene anillos, pero son demasiado débiles para verlos bien.";
+    public string strSaturno = "Saturno no es el único planeta que tiene anillos, pero definitivamente tiene los más hermosos. Los anillos que vemos están formados por grupos de diminutos rizos que rodean a Saturno.  \n \n Están hechos de trozos de hielo y roca. Al igual que Júpiter, Saturno es principalmente una bola de hidrógeno y helio.";
+    public string strUrano = "Considerado como uno de los planetas más «sosos», Urano ha resultado ser un dinámico mundo con algunas de las nubes más brillantes del sistema solar exterior y 11 anillos, está tan lejano que tarda 84 años en completar una órbita, es uno de los planetas gigantes gaseosos. Su atmósfera está compuesta principalmente por hidrógeno y helio, con una pequeña cantidad de metano y trazas de agua y amoníaco. El eje de rotación de Urano es casi horizontal, como si el planeta hubiera sido golpeado por un lado. Esta orientación poco común puede ser el resultado de una colisión con otro cuerpo del tamaño de un planeta en la temprana historia de Urano, lo que habría cambiado radicalmente su rotación.";
+    public string strNeptuno = "Neptuno pasó a ser el último de los planetas gaseosos del Sistema Solar. Es además el planeta más alejado del Sol pues se encuentra a una distancia de éste equivalente a 4,500 millones de kilómetros o 4.5 mil millones de kilómetros. El planeta Neptuno recibe su nombre del dios de las aguas y los mares de la mitología romana, en relación a su color azul. Inicialmente el planeta se conoció como Le Verrier, el nombre de su descubridor, pero finalmente el nombre Neptuno ganó más aceptación ya que seguía la tradición de nombrar los planetas como dioses de la mitología romana. Debido a las grandes dimensiones de su órbita, Neptuno tarda casi 165 años en dar una vuelta completa alrededor del Sol.";
+
+    public strInfo()
+    {
+
+    }
+}
